@@ -1,6 +1,6 @@
-Rida Cosmetics eCommerce
+# Rida Cosmetics eCommerce
 
-Steps for Installation
+## Steps for Installation
 
 1. Download and Install Visual Studio 2022
 2. Download and Install Wamp Server
