@@ -1,17 +1,12 @@
-##Rida Cosmetics: Your Dream Cosmetics Store##
+Rida Cosmetics eCommerce
 
-##Getting Started##
+Steps for Installation
 
-*Download Rida Cosmetics: Get the latest software package.
-*Install: Follow the setup instructions.
-*Configure: Set up your store's basic settings (name, currency, etc.).
-*Choose a Theme: Select a design that reflects your brand's style.
-*Add Products: Create detailed listings for your cosmetics, with high-quality images and descriptions.
-
-##Enhancing Your Store##
-
-*Payment & Shipping: Set up payment gateways and shipping options.
-*Marketing Tools: Use built-in features like discounts and promotions.
-*Customization: Explore plugins and extensions to add more functionality to your store.
-*Optimize for SEO: Ensure your store is easily found by search engines. 10 Launch: Open your Rida Cosmetics store to the world!
-*Rida Cosmetics offers flexibility, scalability, and a dedicated community to help you succeed in online cosmetics sales.
+1. Download and Install Visual Studio 2022
+2. Download and Install Wamp Server
+3. Unzip Program folder
+4. Import Database in PHPMyAdmin/MySQL
+5. In Visual Studio, Build>Clean Selection
+6. Then Build>Rebuild Solution
+7. Run with Nop.Web Debugger
+ 
