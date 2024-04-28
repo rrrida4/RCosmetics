@@ -8,5 +8,5 @@
 4. Import Database in PHPMyAdmin/MySQL
 5. In Visual Studio, Build>Clean Selection
 6. Then Build>Rebuild Solution
-7. Run with Nop.Web Debugger
+7. Run with Debugger
  
