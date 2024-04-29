@@ -9,4 +9,11 @@
 5. In Visual Studio, Build>Clean Selection
 6. Then Build>Rebuild Solution
 7. Run with Debugger
- 
+  My application focuses on:
+   -Login Page
+   -Register Page
+   -Home Page
+   -Shopping Cart
+   -CRUD system
+   -Placing Order
+   
